@@ -1,6 +1,4 @@
-复制的Adesen1的wx 
-原版可能是limoest大佬的
-学习下,讨老婆开心,都为转载
+都为转载学习
 
 # daily_reminder
 给女朋友做的微信天气推送
